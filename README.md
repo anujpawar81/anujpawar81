@@ -1,4 +1,3 @@
-# About Me:
 
 <h1 align="center">Hey 👋, I'm Anuj Pawar</h1>
 <h3 align="center">Enthusiastic and proactive IT engineering graduate, with a stellar academic record of 9.7 SGPA and 8.76 CGPA.</h3>
