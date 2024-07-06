@@ -1,11 +1,15 @@
 <h1 align="center">Hey 👋, I'm Anuj Pawar</h1>
 <h3 align="center">Enthusiastic and proactive IT engineering graduate, with a stellar academic record of 9.7 SGPA and 8.76 CGPA.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anujpawar81&label=Profile%20views&color=0e75b6&style=flat" alt="anujpawar81" /> </p>
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/anujpawar81](https://github.com/anujpawar81)
 
 - 📫 How to reach me **anujpawar435@gmail.com**
+
+- ⚡ Strength **I am a dedicated team player with a knack for problem-solving and an unwavering commitment to continuous learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
